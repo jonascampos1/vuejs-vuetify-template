@@ -22,11 +22,19 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+===============================================================
+## Project Setup 
 
 ```sh
 npm install
 ```
+Rename the `.env.sample` to `.env` and change the `VITE_API_URL` env var for the url of your api and run
+
+```sh
+npm run dev
+```
+Open your browser on `http://localhost:5173/` and enjoy it!
+===============================================================
 
 ### Compile and Hot-Reload for Development
 
