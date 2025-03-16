@@ -35,6 +35,7 @@ npm run dev
 ```
 
 Open your browser on `http://localhost:5173/` and enjoy it!
+
 ===============================================================
 
 ### Compile and Hot-Reload for Development
