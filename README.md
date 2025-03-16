@@ -33,6 +33,7 @@ Rename the `.env.sample` to `.env` and change the `VITE_API_URL` env var for the
 ```sh
 npm run dev
 ```
+
 Open your browser on `http://localhost:5173/` and enjoy it!
 ===============================================================
 
